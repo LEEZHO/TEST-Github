@@ -64,4 +64,10 @@ dispatch_async(dispatch_get_global_queue(0, 0), ^{
     
 }
 
+//change
+-(void)testGit
+{
+    NSLog(@"测试github");
+    
+}
 @end
